@@ -1,0 +1,84 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f5f5f5;
+}
+
+.custom-container {
+    width: 60%;
+}
+
+.color-eco {
+    color: #A2F4AF;
+}
+
+.nav-bg {
+    background-color: #1D952F;
+}
+
+.font-navbar {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.konten {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.footer {
+    background-color: #494646;
+    padding-top: 2000px;
+}
+
+.padding {
+    padding: 60px 0;
+}
+
+.searchBar {
+    width: 750px;
+    border-radius: 5px;
+    height: 40px;
+}
+
+.bigpaddingfooter {
+    padding-bottom: 200px;
+}
+
+.button-search {
+    background-color: #1D952F;
+    border: none;
+    color: #f5f5f5;
+    text-decoration: none;
+    text-align: center;
+    height: 35px;
+    display: inline-block;
+    font-size: 14px;
+    border-radius: 5px;
+}
+
+.rm-margin {
+    margin: 0;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Berita */
+.berita {
+    /*background:white;*/
+    width: 90%;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.berita .col-lg-4 .card {
+    border: none;
+}
+
+.berita .col-lg-4 .card .card-body {
+    margin-left: -17px;
+}
+
+.berita img {
+    height: 200px;
+}
